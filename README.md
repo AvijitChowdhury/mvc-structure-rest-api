@@ -1,10 +1,7 @@
 # create a REST api without database
-<<<<<<< HEAD
 
-- api link: https://rest-api-without-db.herokuapp.com
-=======
 - api link: https://mvc-structure-crud-api.herokuapp.com/
->>>>>>> 955d22e94188ee5597f9f464749cb23661452d9d
+  > > > > > > > 955d22e94188ee5597f9f464749cb23661452d9d
 - we will follow MVC architecture
 - routes demo
   - /users -> GET -> {id, username, email}
